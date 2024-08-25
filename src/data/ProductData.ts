@@ -13,7 +13,7 @@ const products: Product[] = [
     price: "Rp 2.500.000",
   },
   {
-    imageSrc: "/Leviosa_resized_2.jpeg",
+    imageSrc: "/Leviosa.jpeg",
     name: "Leviosa",
     description: "Stylish cafe chair",
     price: "Rp 2.500.000",
@@ -31,25 +31,25 @@ const products: Product[] = [
     price: "Rp 500.000",
   },
   {
-    imageSrc: "/Night lamp.jpeg",
+    imageSrc: "/Night_lamp.jpeg",
     name: "Grifo",
     description: "Night lamp",
     price: "Rp 1.500.000",
   },
   {
-    imageSrc: "/Small_mug.jpeg",
+    imageSrc: "/Small mug.jpeg",
     name: "Muggo",
     description: "Small mug",
     price: "Rp 150.000",
   },
   {
-    imageSrc: "/Small_sofa.jpeg",
+    imageSrc: "/Small mug.jpeg",
     name: "Pingky",
     description: "Small sofa",
     price: "Rp 7.000.000",
   },
   {
-    imageSrc: "/Stylish_flower_pot.jpeg",
+    imageSrc: "/Stylish flower pot.jpeg",
     name: "Potty",
     description: "Stylish flower pot",
     price: "Rp 500.000",
